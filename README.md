@@ -71,6 +71,6 @@ $ npm run test
 - tsconfig.jsonは日本語化してある。
 
 ## TODO
-[ ] ESModule化したかったけど、jestが対応していないので保留。
-[ ] 説明が足りない
+- [ ] ESModule化したかったけど、jestが対応していないので保留
+- [ ] 説明が足りない
 
